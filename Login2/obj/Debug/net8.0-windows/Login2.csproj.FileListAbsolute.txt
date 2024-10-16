@@ -1,0 +1,16 @@
+C:\Users\Tehzeeb Kousar\source\repos\Login2\Login2\bin\Debug\net8.0-windows\Login2.exe
+C:\Users\Tehzeeb Kousar\source\repos\Login2\Login2\bin\Debug\net8.0-windows\Login2.deps.json
+C:\Users\Tehzeeb Kousar\source\repos\Login2\Login2\bin\Debug\net8.0-windows\Login2.runtimeconfig.json
+C:\Users\Tehzeeb Kousar\source\repos\Login2\Login2\bin\Debug\net8.0-windows\Login2.dll
+C:\Users\Tehzeeb Kousar\source\repos\Login2\Login2\bin\Debug\net8.0-windows\Login2.pdb
+C:\Users\Tehzeeb Kousar\source\repos\Login2\Login2\obj\Debug\net8.0-windows\Login2.Form1.resources
+C:\Users\Tehzeeb Kousar\source\repos\Login2\Login2\obj\Debug\net8.0-windows\Login2.csproj.GenerateResource.cache
+C:\Users\Tehzeeb Kousar\source\repos\Login2\Login2\obj\Debug\net8.0-windows\Login2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tehzeeb Kousar\source\repos\Login2\Login2\obj\Debug\net8.0-windows\Login2.AssemblyInfoInputs.cache
+C:\Users\Tehzeeb Kousar\source\repos\Login2\Login2\obj\Debug\net8.0-windows\Login2.AssemblyInfo.cs
+C:\Users\Tehzeeb Kousar\source\repos\Login2\Login2\obj\Debug\net8.0-windows\Login2.csproj.CoreCompileInputs.cache
+C:\Users\Tehzeeb Kousar\source\repos\Login2\Login2\obj\Debug\net8.0-windows\Login2.dll
+C:\Users\Tehzeeb Kousar\source\repos\Login2\Login2\obj\Debug\net8.0-windows\refint\Login2.dll
+C:\Users\Tehzeeb Kousar\source\repos\Login2\Login2\obj\Debug\net8.0-windows\Login2.pdb
+C:\Users\Tehzeeb Kousar\source\repos\Login2\Login2\obj\Debug\net8.0-windows\Login2.genruntimeconfig.cache
+C:\Users\Tehzeeb Kousar\source\repos\Login2\Login2\obj\Debug\net8.0-windows\ref\Login2.dll

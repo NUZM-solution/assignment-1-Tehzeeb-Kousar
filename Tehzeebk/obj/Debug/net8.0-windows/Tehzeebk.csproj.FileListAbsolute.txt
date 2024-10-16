@@ -1,0 +1,16 @@
+C:\Users\Tehzeeb Kousar\source\repos\Tehzeebk\Tehzeebk\bin\Debug\net8.0-windows\Tehzeebk.exe
+C:\Users\Tehzeeb Kousar\source\repos\Tehzeebk\Tehzeebk\bin\Debug\net8.0-windows\Tehzeebk.deps.json
+C:\Users\Tehzeeb Kousar\source\repos\Tehzeebk\Tehzeebk\bin\Debug\net8.0-windows\Tehzeebk.runtimeconfig.json
+C:\Users\Tehzeeb Kousar\source\repos\Tehzeebk\Tehzeebk\bin\Debug\net8.0-windows\Tehzeebk.dll
+C:\Users\Tehzeeb Kousar\source\repos\Tehzeebk\Tehzeebk\bin\Debug\net8.0-windows\Tehzeebk.pdb
+C:\Users\Tehzeeb Kousar\source\repos\Tehzeebk\Tehzeebk\obj\Debug\net8.0-windows\Tehzeebk.Form1.resources
+C:\Users\Tehzeeb Kousar\source\repos\Tehzeebk\Tehzeebk\obj\Debug\net8.0-windows\Tehzeebk.csproj.GenerateResource.cache
+C:\Users\Tehzeeb Kousar\source\repos\Tehzeebk\Tehzeebk\obj\Debug\net8.0-windows\Tehzeebk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tehzeeb Kousar\source\repos\Tehzeebk\Tehzeebk\obj\Debug\net8.0-windows\Tehzeebk.AssemblyInfoInputs.cache
+C:\Users\Tehzeeb Kousar\source\repos\Tehzeebk\Tehzeebk\obj\Debug\net8.0-windows\Tehzeebk.AssemblyInfo.cs
+C:\Users\Tehzeeb Kousar\source\repos\Tehzeebk\Tehzeebk\obj\Debug\net8.0-windows\Tehzeebk.csproj.CoreCompileInputs.cache
+C:\Users\Tehzeeb Kousar\source\repos\Tehzeebk\Tehzeebk\obj\Debug\net8.0-windows\Tehzeebk.dll
+C:\Users\Tehzeeb Kousar\source\repos\Tehzeebk\Tehzeebk\obj\Debug\net8.0-windows\refint\Tehzeebk.dll
+C:\Users\Tehzeeb Kousar\source\repos\Tehzeebk\Tehzeebk\obj\Debug\net8.0-windows\Tehzeebk.pdb
+C:\Users\Tehzeeb Kousar\source\repos\Tehzeebk\Tehzeebk\obj\Debug\net8.0-windows\Tehzeebk.genruntimeconfig.cache
+C:\Users\Tehzeeb Kousar\source\repos\Tehzeebk\Tehzeebk\obj\Debug\net8.0-windows\ref\Tehzeebk.dll
